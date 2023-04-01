@@ -1,4 +1,4 @@
-# Masterthesis_Graphs
+# Masterthesis 
 This Code replicates figures 2 and 3 of my Master's thesis.
 
 Please be sure to download the folder "Data" before executing the run.
