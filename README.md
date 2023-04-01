@@ -9,4 +9,4 @@ Data Sources:
     https://worldpay.globalpaymentsreport.com/en
 
 Author:
-Lea Katharina Paoli
+Lea Paoli
